@@ -11,7 +11,7 @@ This is a simple **Sign-In Page** built using React and Tailwind CSS. The page f
 
 ## Demo
 
-![Screenshot of the Sign-In Page](https://via.placeholder.com/800x400) <!-- Replace with an actual screenshot URL -->
+![Screenshot of the Sign-In Page](tailwind.JPG)
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ Follow these instructions to set up and run the project on your local machine.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/tailwind-signin-page.git
+   git clone https://github.com/MalakaMadushan/Tailwind-UI.git
    cd tailwind-signin-page
    ```
 
@@ -47,7 +47,7 @@ Ensure you have Tailwind CSS installed and configured in your project.
 Add the @tailwindcss/forms plugin to your Tailwind configuration:
 
 ```
-Copy code
+
 // tailwind.config.js
 module.exports = {
   content: [
@@ -67,10 +67,8 @@ module.exports = {
 
 Start the development server:
 
-bash
-Copy code
+```
 npm start
-
 # or
-
 yarn start
+```
